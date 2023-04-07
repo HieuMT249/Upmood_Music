@@ -4,6 +4,11 @@
     <string name="search">Tìm kiếm</string>
     <string name="library">Thư viện</string>
     <string name="premium">Premium</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="phone">Phone</string>
 </resources>
